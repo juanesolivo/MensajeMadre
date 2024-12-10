@@ -1,0 +1,9 @@
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\bin\Debug\DataMadres.mdf
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\bin\Debug\DataMadres_log.ldf
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\bin\Debug\MensajeMadre.exe.config
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\bin\Debug\MensajeMadre.exe
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\bin\Debug\MensajeMadre.pdb
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\obj\Debug\MensajeMadre.csproj.AssemblyReference.cache
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\obj\Debug\MensajeMadre.csproj.CoreCompileInputs.cache
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\obj\Debug\MensajeMadre.exe
+C:\Users\jimif\Documents\Code\DessarrolloSoftwareIII\MensajeMadre\obj\Debug\MensajeMadre.pdb
